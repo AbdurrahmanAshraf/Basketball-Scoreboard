@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  width: 575px;
+  height: 385px;
+  margin: auto;
+  background-color: #1B244A;
+}
+
+#home_score,
+#guest_score {
+  border: 5px solid black;
+  background-color: black;
+  color: #F94F6D;
+  font-family: 'Cursed Timer ULiL', sans-serif;
+  font-size: 90px;
+  text-align: center;
+  width: 155px;
+  height: 120px;
+  margin: 0px auto;
+  line-height: 125px;
+}
+
+.btn {
+
+  text-align: center;
+
+}
+
+button {
+  background-color: transparent;
+  border: 2px solid #9AABD8;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 30px 2px 70px 3px;
+  color: #9AABD8;
+  width: 45px;
+  height: 45px;
+  font-family: 'Cursed Timer ULiL', sans-serif;
+
+}
+
+h3 {
+  text-align: center;
+  font-family: Verdana;
+  font-size: 40px;
+  color: #EEE;
+  margin-top: 50px;
+}
+
+.hero {
+  width: 220px;
+  height: 460px;
+}
